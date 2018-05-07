@@ -6,12 +6,14 @@
 
 body {
   font-size: 24px;
+  line-height: 32px;
 }
 
 header {
   padding: 20px;
   margin-bottom: 20px;
   background: #ccc;
+  color: #333;
 
 }
 
@@ -19,25 +21,27 @@ section {
   padding: 20px;
   margin-bottom: 20px;
   background: #ccc;
-  color: white;
 }
 
 #left {
   background: #666;
   float: left;
   width: 33.3%;
+  color: white;
 }
 
 #middle {
   background: #888;
   float: left;
   width: 33.3%;
+  color: white;
 }
 
 #right {
   background: #666;
   float: left;
   width: 33.3%;
+  color: white;
 }
 
 #full {
